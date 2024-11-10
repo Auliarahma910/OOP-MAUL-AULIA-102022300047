@@ -8,7 +8,7 @@ class Kucing extends Hewan {
 
     @Override
     public void suara() {
-        System.out.println(nama + " mengeong: Meong!");
+        System.out.println(nama + " mengeong: Meoong!");
     }
 
     @Override

@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        Kucing kucing = new Kucing("Momo", 2, "Persia");
+        Kucing kucing = new Kucing("Nobi", 1, "British shorthair");
         System.out.println("Detail Hewan\n");
         
         System.out.println("ini adalah " + kucing.nama + " !");
@@ -9,7 +9,7 @@ public class Main {
         kucing.makan("ikan");
         System.out.println();
 
-        Burung burung = new Burung("Rio", 1, "Hijau");
+        Burung burung = new Burung("Emon", 1, "putih");
         System.out.println("ini adalah " + burung.nama + " !");
         burung.suara();
         burung.makan();
