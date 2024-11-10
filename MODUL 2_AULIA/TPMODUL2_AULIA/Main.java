@@ -1,6 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        // Membuat objek kucing dengan detail tertentu
         Kucing kucing = new Kucing("Momo", 2, "Persia");
         System.out.println("Detail Hewan\n");
         
