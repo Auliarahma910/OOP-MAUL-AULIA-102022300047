@@ -8,7 +8,7 @@ class Hewan {
     }
 
     public void suara() {
-        System.out.println("Hewan bersuara...");
+        System.out.println(nama + "Hewan bersuara...");
     }
 
     public void makan() {
